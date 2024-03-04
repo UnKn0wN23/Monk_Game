@@ -1,0 +1,6 @@
+﻿  Rooms.cpp
+C:\Users\jura2\source\repos\MonkGame\MonkGame\Rooms.cpp(74,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jura2\source\repos\MonkGame\MonkGame\Rooms.cpp(99,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jura2\source\repos\MonkGame\MonkGame\Rooms.cpp(131,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jura2\source\repos\MonkGame\MonkGame\Rooms.cpp(96): warning C4715: 'enemyGenerator': not all control paths return a value
+  MonkGame.vcxproj -> C:\Users\jura2\source\repos\MonkGame\Debug\MonkGame.exe
